@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Viepertech
+- Names Alexander RN Murhpy
+- I am a GMU Student Just Starting into the world of programming
+- avtively learning java, Python, Abuntu
