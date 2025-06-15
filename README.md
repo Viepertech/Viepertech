@@ -22,7 +22,6 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Viper Pit 🐍](https://viepertech.github.io/viper-pit/) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
-| Art Flipbook | Digital art portfolio with page-flip animations | HTML, JS, CSS |
 | More coming soon... | Stay tuned! | 🚧 |
 
 ## 📫 Let's Connect
