@@ -2,7 +2,7 @@
 
 ## A little about me
 🎓 I'm a recent Computer Science graduate from **UMGC** (University of Maryland Global Campus).  
-💻 I'm actively building skills in **Java**, **Python**, and **C++**.  
+💻 I'm actively building skills in **Java**, **Python**, and **C++** (among others).  
 🎨 I'm also a creative coder, blending technology with visual expression.
 
 ## 🚀 What I'm Working On
