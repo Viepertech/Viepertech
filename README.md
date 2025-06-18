@@ -25,7 +25,7 @@
 | More coming soon... | Stay tuned! | 🚧 |
 
 ## 📫 Let's Connect
-- LinkedIn: [YourLinkedIn](https://linkedin.com/in/alexanderrnmurphy)
+- LinkedIn: [MyLinkedInProfile](https://linkedin.com/in/alexanderrnmurphy)
 - Portfolio site (coming soon!)
 
 ---
