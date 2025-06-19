@@ -7,6 +7,7 @@
 
 ## 🚀 What I'm Working On
 - 🎮 A real-time animated **snake pit** using HTML5 Canvas and JavaScript ([See it here](https://viepertech.github.io/viper-pit/))
+- 🖥️ A hacker-themed **web terminal** connected to a live Node.js backend ([Try the demo](https://your-username.gitlab.io/your-project-name/))
 - 🖼️ A digital **flipbook art gallery** to showcase my original artwork (coming soon)
 - 🌇 Small tools and games that combine logic and art
 
@@ -25,6 +26,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Viper Pit 🐍](https://viepertech.github.io/viper-pit/) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
+| [Hacker Terminal 💻](https://viepertech.gitlab.io/yviper-hacker-demo/) | A retro web terminal powered by a live Node.js backend | Node.js, Express, JS, GitLab Pages |
 | More coming soon... | Stay tuned! | 🚧 |
 
 ## 📫 Let's Connect
