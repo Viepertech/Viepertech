@@ -7,7 +7,7 @@
 
 ## 🚀 What I'm Working On
 - 🎮 A real-time animated **snake pit** using HTML5 Canvas and JavaScript ([See it here](https://viepertech.github.io/viper-pit/))
-- 🖥️ A hacker-themed **web terminal** connected to a live Node.js backend ([Try the demo](https://viepertech.gitlab.io/viper-hacker-demo/))
+- 🖥️ A hacker-themed **web terminal** connected to a live Node.js backend ([Try the demo](https://viepertech.github.io/viper-hacker-demo/))
 - 🖼️ A digital **flipbook art gallery** to showcase my original artwork (coming soon)
 - 🌇 Small tools and games that combine logic and art
 
