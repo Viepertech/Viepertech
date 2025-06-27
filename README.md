@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @Viepertech
 
-## A little about me
+## 🧐 A little about me
 🎓 I'm a recent Computer Science graduate  
 💻 I'm actively building skills in **Java**, **Python**, and **C++** (among others).  
 🎨 I'm also a creative coder, blending technology with visual expression.
