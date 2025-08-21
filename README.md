@@ -26,7 +26,7 @@
 ## ✨ Featured Projects
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Viper Pit 🐍](https://viepertech.github.io/viper-pit/) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
+| [Viper Pit 🐍](https://github.com/Viepertech/viper-pit) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
 | ~~[Hacker Terminal 💻](https://viepertech.github.io/viper-hacker-demo/)~~ | ~~A retro web terminal powered by a live Node.js backend~~ | ~~Node.js, Express, JS, GitLab Pages~~ |
 | More coming soon... | Stay tuned! | 🚧 |
 
