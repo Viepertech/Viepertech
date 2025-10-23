@@ -7,6 +7,8 @@
 
 ## 🚀 What I'm Working On
 - 🎮 A real-time animated **snake pit** using HTML5 Canvas and JavaScript ([See it here](https://viepertech.github.io/viper-pit/))
+- ☄️ A **Near-Earth Asteroid Visualizer** that uses NASA’s live NeoWs API to render asteroids near Earth in 3D using Plotly  
+  [[Live Demo]](https://viepertech.github.io/viper-planet-explorer/) · [[Source]](https://github.com/Viepertech/viper-planet-explorer)
 - 🖥️ ~~A hacker-themed **web terminal** connected to a live Node.js backend ([Try the demo](https://viepertech.github.io/viper-hacker-demo/))~~
 > **Note:** This demo is currently undergoing re-architecture. Features may be limited or temporarily disabled.
 - 🖼️ A digital **flipbook art gallery** to showcase my original artwork (coming soon)
@@ -27,6 +29,7 @@
 | Project | Description | Tech |
 |--------|-------------|------|
 | [Viper Pit 🐍](https://github.com/Viepertech/viper-pit) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
+| [Near-Earth Asteroid Visualizer ☄️](https://viepertech.github.io/viper-planet-explorer/) | 3D Plotly visualization of live NASA NeoWs asteroid data with solid Earth and rotating camera | Python, Plotly, NASA NeoWs, GitHub Actions |
 | ~~[Hacker Terminal 💻](https://viepertech.github.io/viper-hacker-demo/)~~ | ~~A retro web terminal powered by a live Node.js backend~~ | ~~Node.js, Express, JS, GitLab Pages~~ |
 | More coming soon... | Stay tuned! | 🚧 |
 
