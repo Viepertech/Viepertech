@@ -2,7 +2,7 @@
 
 ## 🧐 A little about me
 👨‍💻 Newly hired Software Developer  
-🎓 B.S. in Computer Science
+🎓 B.S. in Computer Science   
 💻 I'm actively building skills in **Java**, **Python**, and **C++** (among others).  
 🎨 I'm also a creative coder, blending technology with visual expression.
 
