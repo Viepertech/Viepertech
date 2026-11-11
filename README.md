@@ -12,6 +12,8 @@
   [[Live Demo]](https://viepertech.github.io/viper-planet-explorer/) · [[Source]](https://github.com/Viepertech/viper-planet-explorer)
 - 🛰️ An **Engagement Manager**: a simulated command & control node in Python `asyncio` that ingests sensor tracks, validates operator engagements against available resources, and broadcasts system state as JSON, with CSV/Parquet records, unit tests, GitHub Actions CI and Docker  
   [[Source]](https://github.com/Viepertech/Engagement_Manager)
+- 📡 **Viper Radar**: a retro radar scope showing live aircraft from the OpenSky Network, with a rotating sweep, phosphor-fade blips and dead-reckoned positions, refreshed by a scheduled GitHub Actions pipeline  
+  [[Live Demo]](https://viepertech.github.io/viper-radar/) · [[Source]](https://github.com/Viepertech/viper-radar)
 - 🖥️ ~~A hacker-themed **web terminal** connected to a live Node.js backend ([Try the demo](~~~~https://viepertech.github.io/viper-hacker-demo/~~~~))~~
 > **Note:** This demo is currently undergoing re-architecture. Features may be limited or temporarily disabled.
 - 🖼️ A digital **flipbook art gallery** to showcase my original artwork (coming soon)
@@ -34,6 +36,7 @@
 | [Viper Pit 🐍](https://github.com/Viepertech/viper-pit) | A chaotic animated canvas of snakes with custom art | JavaScript + Canvas |
 | [Near-Earth Asteroid Visualizer ☄️](https://viepertech.github.io/viper-planet-explorer/) | 3D Plotly visualization of live NASA NeoWs asteroid data with solid Earth and rotating camera | Python, Plotly, NASA NeoWs, GitHub Actions |
 | [Engagement Manager 🛰️](https://github.com/Viepertech/Engagement_Manager) | Simulated C2 engagement node: concurrent asyncio loops for track intake, operator engagements and JSON state broadcast, with CSV/Parquet records | Python, asyncio, PyArrow, pytest, GitHub Actions, Docker |
+| [Viper Radar 📡](https://viepertech.github.io/viper-radar/) | Retro radar scope of live ADS-B aircraft with sweep painting, phosphor decay, dead reckoning and live → snapshot → simulation fallback | JavaScript, Canvas, Node.js, OpenSky API, GitHub Actions |
 | ~~[Hacker Terminal 💻](~~~~https://viepertech.github.io/viper-hacker-demo/~~~~)~~ | ~~A retro web terminal powered by a live Node.js backend~~ | ~~Node.js, Express, JS, GitLab Pages~~ |
 | More coming soon... | Stay tuned! | 🚧 |
 
